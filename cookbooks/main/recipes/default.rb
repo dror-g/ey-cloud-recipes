@@ -23,7 +23,7 @@
 # include_recipe "memcached"
 
 #uncomment ot run the riak recipe
-# include_recipe "riak"
+ include_recipe "riak"
 
 #uncomment to run the authorized_keys recipe
 #include_recipe "authorized_keys"
